@@ -1,0 +1,27 @@
+.yellow {
+  background-color: yellow;
+  height: 30px;
+  width: 100px;
+}
+
+.green {
+  background-color: green;
+  height: 30px;
+  width: 100px;
+}
+
+.red {
+  background-color: red;
+  height: 30px;
+  width: 100px;
+}
+
+.adopt {
+  text-decoration: underline;
+  cursor: hand;
+}
+
+#refresh-puppies {
+  text-decoration: underline;
+  cursor: hand;
+}
